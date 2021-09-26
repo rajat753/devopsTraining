@@ -1,1 +1,2 @@
 this is fileA for gitTrain
+New statement added 1st edit to A
