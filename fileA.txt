@@ -1,3 +1,4 @@
 this is fileA for gitTrain
 New statement added 1st edit to A
 file A edit on feature branch
+file A v1 changes on master not on feature
