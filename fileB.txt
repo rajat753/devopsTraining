@@ -1,2 +1,3 @@
 this is fileB for gitTrain
 New statement added 1st edit to B
+2nd edit to B
